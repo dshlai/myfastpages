@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+Currently studying interesctions of AI/AR/VFX/Robotics
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
